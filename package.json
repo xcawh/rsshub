@@ -155,7 +155,7 @@
         "@cloudflare/workers-types": "5.20260907.1",
         "@eslint/js": "10.0.1",
         "@oxlint/plugins": "1.81.0",
-        "@stylistic/eslint-plugin": "5.10.0",
+        "@stylistic/eslint-plugin": "6.0.0",
         "@types/crypto-js": "4.2.2",
         "@types/eslint": "9.6.1",
         "@types/etag": "1.8.4",
